@@ -1,0 +1,43 @@
+.footer{
+    background: #252525;
+    padding: 80px 0;
+}
+.footer-all{
+   display: flex;
+   justify-content: center;
+   flex-wrap: wrap;
+   gap: 100px;
+}
+ul >h6{
+    font-family: Philosopher;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 20.16px;
+    text-align: left;
+    color: #FFFFFF;
+    
+}
+.links>a{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 32.41px;
+text-align: left;
+color: #FFFFFF;
+
+}
+
+.all5{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-left: -40px;
+}
+.ikon{
+    color: white;
+    transition: all .3s linear;
+    border-radius: 50px;
+}
+.ikon:hover{
+    transform: scale(1.4);
+}

@@ -1,0 +1,236 @@
+
+.tig{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.tig1{
+    text-align: center;
+}
+.tig1>h4{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    text-align: center;
+    color: #DC780B;
+    
+}
+.tig1 >h1{
+    font-family: Philosopher;
+    font-size: 31.25px;
+    font-weight: 700;
+    line-height: 24px;
+    color: #150C01;
+    
+}
+.tig1 >p{
+    max-width: 748px;
+    width: 100%;
+    height: 64px;
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: #150C01;
+    
+}
+.product-row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+    
+}
+.product-alt{
+    max-width: 360px;
+    width: 100%;
+    height: 476px;
+    border: 1px 0px 0px 0px;
+    border: 1px solid #0000001A; 
+    border-radius: 70px 10px 70px 0px;  
+}
+.product-alt >img{
+    max-width: 458px;
+    height: 306px; 
+    width: 100%;
+    border-radius: 70px 10px 70px 0px;
+    
+}
+.p-1{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 140px;
+    padding: 0 20px;
+}
+.p-2 >h1{
+    font-family: Philosopher;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: left;
+    color: #150C01;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+    overflow: hidden;
+    
+}
+.p-2 >p{
+    font-family: Philosopher;
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 24px;
+    text-align: right;
+    color: #150C01;
+    
+}
+.product-alt >p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+    max-width: 310px;
+    width: 100%;
+    height: 38px;
+    padding: 0 20px;   
+    margin-top: -5px;
+    color: #150C01;   
+}
+.btn1{
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+    gap: 120px;
+}
+.btn7 >.box{
+    width: 36px;
+    height: 34px;
+    border-radius: 5px;
+    background: #DC780B;
+    font-size: 20px;   
+    color: white; 
+    border: none;
+}
+
+.link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px 0;
+}
+.link >button{
+    width: 142px;
+    height: 42px;
+    top: 3065px;
+    left: 649px;
+    gap: 0px;
+    background-color: white ;
+    border-radius: 5px 0px 0px 0px;
+    border: 1px 0px 0px 0px;
+    opacity: 0.1px;
+    border: 1px solid rgb(196, 196, 196);
+    color: #DC780B;  
+    font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 18.75px;
+text-align: center;
+transition: all .3s linear;
+}
+.link >button:hover{
+    background-color: #DC780B;
+    color: white;
+    transform: scale(1.1);
+    border: none;
+}
+
+
+.bottom{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.bottm-all{
+    max-width: 750px;
+    width: 100%;
+    height: 145px;
+
+}
+.bottom-row{
+    text-align: center;
+}
+.bottom-row >span{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.2em;
+    text-align: center;
+    color: #DC780B;
+   
+    
+}
+.bottom-row >h1{
+    font-family: Philosopher;
+font-size: 31.25px;
+font-weight: 700;
+line-height: 24px;
+
+}
+.bottom-row >p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: rgb(48, 48, 48);
+
+    
+}
+
+.bottom-link{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px 0;
+}
+.bottom-alt{
+    text-align: center;
+}
+svg{
+    color: #DC780B;
+}
+.bottom-alt >h1{
+    font-family: Roboto;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: center;
+    color: black;
+   
+}
+.bottom-alt >p{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 18.75px;
+    text-align: center;
+    
+}
+.bottom-alt >h5{
+    font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 14.06px;
+color: #000000;
+margin-top: -5px;
+
+}
